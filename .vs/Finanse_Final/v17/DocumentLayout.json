@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kacper\\Desktop\\Finanse_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84B8CA8E-3610-4DEA-A441-C7412F3FA1E1}|Finanse_Final\\Finanse_Final.csproj|c:\\users\\kacper\\desktop\\finanse_final\\finanse_final\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{84B8CA8E-3610-4DEA-A441-C7412F3FA1E1}|Finanse_Final\\Finanse_Final.csproj|solutionrelative:finanse_final\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B8CA8E-3610-4DEA-A441-C7412F3FA1E1}|Finanse_Final\\Finanse_Final.csproj|c:\\users\\kacper\\desktop\\finanse_final\\finanse_final\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B8CA8E-3610-4DEA-A441-C7412F3FA1E1}|Finanse_Final\\Finanse_Final.csproj|solutionrelative:finanse_final\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Finanse_Final\\Finanse_Final\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Finanse_Final\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Finanse_Final\\Finanse_Final\\MainWindow.xaml",
+              "RelativeToolTip": "Finanse_Final\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-01T10:11:59.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Kacper\\Desktop\\Finanse_Final\\Finanse_Final\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Finanse_Final\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Kacper\\Desktop\\Finanse_Final\\Finanse_Final\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Finanse_Final\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAwwE0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T10:11:59.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="GreenUpArrow.png" />
+    <None Remove="RedDownArrow.png" />
+    <None Remove="settings icon.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="GreenUpArrow.png" />
+    <Resource Include="RedDownArrow.png" />
+    <Resource Include="settings icon.png" />
+  </ItemGroup>
+
+</Project>
